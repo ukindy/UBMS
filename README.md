@@ -1,5 +1,5 @@
 # UBMS
-a background management system. used with Vue and ElementUI.
+a background management system. Used with Vue and ElementUI.
 
 
 ## Build Setup
