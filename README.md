@@ -1,6 +1,6 @@
-# uems
+# UBMS
 
-> a management system
+> a background management system
 
 ## Build Setup
 
